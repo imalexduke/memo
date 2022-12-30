@@ -12,11 +12,11 @@
     "@octokit/rest": "^16.35.0",
     "file-saver": "^2.0.2",
     "jsstore": "^3.4.4",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-ga": "^2.5.7",
-    "react-scripts": "2.1.8",
-    "write-good": "^1.0.1"
+    "react-scripts": "5.0.0",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
